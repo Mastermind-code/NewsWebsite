@@ -142,7 +142,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 '''
 EMAIL_HOST = 'smtp.sendgrip.net'
 EMAIL_HOST_USER = 'apikey'
-EMAIL_HOST_PASSWORD = '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'
+EMAIL_HOST_PRD = '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'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 '''
